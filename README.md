@@ -11,9 +11,10 @@ Starting from : October  28 2022
 ## Contents
 
 - <b>Day 1</b> - [Working with Custom Hooks](https://cryptoquoterreds.netlify.app)
+- <b>Day 2</b> - [Studying some useful  Custom Hooks](https://github.com/reds98/100-days-of-code/tree/main/day-2)
 
 <p align="center">
-Last Updated : October 29, 2022
+Last Updated : October 30, 2022
 </p>
 
 <p align="center">
